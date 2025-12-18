@@ -1,0 +1,3 @@
+D-ERR.py is a program in error analysis that only performs error analysis on deep models, while test-ERR.py is used to analyze the errors after regression.
+train_historyR.csv, train_historyG.csv, and train_historyB.csv are the data from the deep channel multiplexing RGB channel comparison experiments.
+Dirt and multiple training statistis. xlsx is a comparison of the results of detecting dirty datasets and the results of multiple training tests of this model.
