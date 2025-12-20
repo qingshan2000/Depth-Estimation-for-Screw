@@ -14,9 +14,13 @@ Supplementary Experiments Introduction
 Comparative experiment on depth channel initialization strategies aims to verify the impact of initializing the newly added depth input channel with the weights of different RGB channels from the pre-trained ResNet-18 model on the training convergence speed and final regression accuracy of the model under the SCR_R4Net network architecture.
 
 Table Performance Comparison of Depth Channel Initialization Strategies
+
 Initialization Method	MSE	Convergence 	Epochs
+
 R channel	       0.0083   	0.105	       37
+
 G channel	       0.0085	    0.112	       82
+
 B channel        0.0079   	0.121        77
 
 Model robustness verification experiment aims to systematically evaluate the performance stability of the proposed screw tightness detection method under simulated complex real industrial environments. By simulating various common interferences such as illumination changes, oil contamination, and occlusion, the degree of performance degradation of the model is quantitatively analyzed, thereby clarifying the effectiveness and reliability boundaries of the method in practical deployment.
