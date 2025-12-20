@@ -34,7 +34,8 @@ Qualitative analysis of failure cases and classification confusion research aims
 ![image](https://github.com/qingshan2000/Depth-Estimation-for-Screw/blob/main/Supplementary%20experiment/Experimental%20data%20and%20supporting%20evidence/Invalid%20sample.png)
 
 Depth estimation uncertainty and error propagation analysis experiment aims to quantitatively evaluate the errors introduced by the upstream pre-trained depth estimation model (Depth Anything V2) in this specific task, systematically analyze how these errors propagate through the subsequent processing chain, and finally clarify the error suppression mechanism that enables the entire system to achieve high-precision prediction without fine-tuning the depth model.
-![image](https://github.com/qingshan2000/Depth-Estimation-for-Screw/blob/main/Supplementary%20experiment/Experimental%20data%20and%20supporting%20evidence/Visualization%20of%20depth%20estimation%20at%20different%20heights.png)
+![image](https://github.com/qingshan2000/Depth-Estimation-for-Screw/blob/main/Supplementary%20experiment/Experimental%20data%20and%20supporting%20evidence/Visualization%20of%20depth%20estimation%20at%20different%20heights.png.png)
+
                                                        Visualization of depth estimation at different heights
 Repository Contents
 
