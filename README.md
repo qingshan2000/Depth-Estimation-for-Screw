@@ -12,7 +12,7 @@ Fusion & Regression: A custom SCR_R4Net network fuses RGB and depth features to 
 Supplementary Experiments 
 
 Model Robustness Verification Experiment aims to systematically evaluate the performance stability of the proposed screw tightness detection method under simulated complex real industrial environments. By simulating various common interferences such as illumination changes, oil contamination, and occlusion, the degree of performance degradation of the model is quantitatively analyzed, thereby clarifying the effectiveness and reliability boundaries of the method in practical deployment.
-
+![image](https://github.com/qingshan2000/Depth-Estimation-for-Screw/blob/main/Supplementary%20experiment/Experimental%20data%20and%20supporting%20evidence/Interference%20dataset.png)
 ![image](https://github.com/qingshan2000/Depth-Estimation-for-Screw/blob/main/Supplementary%20experiment/Experimental%20data%20and%20supporting%20evidence/Invalid%20sample.png)
 
 Repository Contents
