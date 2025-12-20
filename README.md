@@ -11,7 +11,8 @@ Fusion & Regression: A custom SCR_R4Net network fuses RGB and depth features to 
 
 Supplementary Experiments 
 
-![image](Supplementary experiment/Experimental data and supporting evidence/Invalid sample.png)
+![image]([Supplementary experiment/Experimental data and supporting evidence/Invalid sample.png](https://github.com/qingshan2000/Depth-Estimation-for-Screw/blob/main/Supplementary%20experiment/Experimental%20data%20and%20supporting%20evidence/Invalid%20sample.png)
+
 Repository Contents
 
 Interference Dataset.zip is a dataset for robustness experiments.
